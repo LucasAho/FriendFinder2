@@ -1,0 +1,24 @@
+{
+    "development": {
+        "username": "root",
+        "password": "gitsql",
+        "database": "personality_DB",
+        "host": "localhost",
+        "port": 8084,
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "gitsql",
+        "database": "database_test",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "gitsql",
+        "database": "database_production",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
